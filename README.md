@@ -9,7 +9,7 @@ This app helps calculate your monthly water consumption and billing based on off
 
 Click the link below to download the latest version of the app:
 
-👉 [**Download twd-wracc.apk**](https://github.com/djbruce/twd-wracc/releases/download/v1.0.0/twd-wracc.apk)
+👉 [**Download twd-wracc.apk**](https://github.com/djbruce/twd-wracc/releases/download/v.1.0.0/twd-wracc.apk)
 
 ⚠️ *You must allow installation from unknown sources to install this APK.*
 
@@ -19,7 +19,7 @@ Click the link below to download the latest version of the app:
 
 Scan this QR code using your phone to instantly download the app:
 
-![Scan to Download](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/djbruce/twd-wracc/releases/download/v1.0.0/twd-wracc.apk)
+![Scan to Download](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/djbruce/twd-wracc/releases/download/v.1.0.0/twd-wracc.apk)
 
 ---
 
